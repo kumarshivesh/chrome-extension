@@ -1,0 +1,11 @@
+{
+  "name": "Digital Clock Screen",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "icons": {
+    "128": "logo.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "popup.html"
+  }
+}
